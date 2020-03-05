@@ -1,3 +1,5 @@
+#TERMUX
+
 apt install figlet
 
 cd $HOME
