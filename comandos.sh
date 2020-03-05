@@ -6,6 +6,8 @@ cd ..
 cd usr
 cd bin
 
+rm apt
+rm pkg
 rm adb
 rm am
 rm app_process
