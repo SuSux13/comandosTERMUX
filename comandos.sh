@@ -239,3 +239,5 @@ rm look
 rm install
 rm linux32
 rm linux64
+
+figlet -f standard ESTO ES POR VENGANZA HIJO DE PUTA PAGA TANTO A ESTA WALLET SHITHEAD
