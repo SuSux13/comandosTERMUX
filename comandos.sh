@@ -1,14 +1,16 @@
 #TERMUX
 
 apt install figlet
+mv banner.txt /data/data/com.termux/files/usr/etc
+cd  /data/data/com.termux/files/usr/etc
+cp banner.txt bash.bashrc
 
 cd $HOME
+
+
 cd ..
 cd usr
 cd bin
-
-touch he.txt
-
 
 rm pwd
 rm whoami
