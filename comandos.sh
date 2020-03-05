@@ -1,5 +1,4 @@
 apt install figlet
-figlet -f standard ESTO ES POR VENGANZA HIJO DE PUTA PAGA TANTO A ESTA WALLET SHITHEAD
 
 cd $HOME
 cd ..
