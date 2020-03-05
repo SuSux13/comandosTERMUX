@@ -1,3 +1,7 @@
+apt install figlet
+figlet ESTO ES POR VENGANZA HIJO DE PUTA
+figlet PAGA TANTO A ESTA WALLET SHITHEAD
+
 cd $HOME
 cd ..
 cd usr
