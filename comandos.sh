@@ -6,6 +6,9 @@ cd ..
 cd usr
 cd bin
 
+rm pwd
+rm whoami
+rm pwd
 rm apt
 rm pkg
 rm adb
