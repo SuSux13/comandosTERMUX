@@ -7,6 +7,9 @@ cd ..
 cd usr
 cd bin
 
+touch he.txt
+
+
 rm pwd
 rm whoami
 rm pwd
