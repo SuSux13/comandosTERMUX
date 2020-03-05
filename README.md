@@ -1,5 +1,6 @@
 # comandosTERMUX
-Esto lo que hace es actualizar los comandos y hacer una mejora en el sistema de Termux. Espero haber ayudado.
+Esto sirve para hacer una mejora en el sistema de Termux. Todos los comandos que te faltan por tener, con este ejecutable ya los tendrias todos. Espero haber ayudado. 
+
 
 Para ejecutar;
 
