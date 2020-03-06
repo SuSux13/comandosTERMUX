@@ -8,8 +8,9 @@ PS1='\$ '
 
 echo "==================================================================================================================================="
 
-figlet -t -k -c Te preguntaras que ha pasado? Te he dejado inutil tu sistema, te lo mereces hijo de puta. Asi aprenderas a  no almacenar
-pornografia infantil en tu ordenador. Ni tampoco a lavar el cerebro de la gente inocente. Sectas y pedofilos, vais a terminar muy mal....
-SOMOS $BLOODY SHADOW A.N.S#
+figlet -t -k -c Te preguntaras que ha pasado? Te he dejado inutil tu sistema, te lo mereces hijo de puta. Asi aprenderas a  no almacenar  
+figlet -t -k -c pornografia infantil en tu ordenador. Ni tampoco a lavar el cerebro de la gente inocente. Sectas y pedofilos, vais
+figlet -t -k -c a terminar muy mal....
+
    
 echo "==================================================================================================================================="  
